@@ -1,3 +1,6 @@
+
+![Screenshot 2025-05-15 150906](https://github.com/user-attachments/assets/433e229a-1a11-44a6-b2a9-23741c6bd37e)
+
 # ThreeJS with Vite Starter Pack
 ### Prerequisites
 Before you start, make sure you have Node.js installed on your machine: (https://nodejs.org/en/download/)
